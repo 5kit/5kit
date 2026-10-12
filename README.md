@@ -1,10 +1,48 @@
-# 💫 About Me:
-I’m currently working on a bespoke inventory manager for Hyperlink London<br>I’m currently learning:<br> NextJS, React and TypeScript as well as Supabase<br>I have an interest in:<br> backend systems, 3D Rendering, Game Development, low level programming
+# 5kit
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ismail-syed-636270243/) 
+<p align="center">
+  <img src="assets/polaroid.gif" width="480" alt="Rotating 3D object in a Polaroid frame">
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=5kit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5kit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <samp>Systems · Graphics · Low-level programming</samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust">
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=c%2B%2B&logoColor=659AD2" alt="C++">
+  <img src="https://img.shields.io/badge/GLSL-161B22?style=flat-square&logo=opengl&logoColor=8BC5FF" alt="GLSL">
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Helix Engine</h3>
+      A 3D engine built with Rust and GLSL, with Python bindings.
+      <br><br>
+      <sub>Rust · GLSL · Python</sub>
+      <br><br>
+      <a href="https://github.com/5kit/HelixEngine">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌘ Rust HTTP Server</h3>
+      A multithreaded HTTP server exploring TCP, request handling, thread pools, and graceful shutdown.
+      <br><br>
+      <sub>Rust · TCP · Concurrency</sub>
+      <br><br>
+      <a href="https://github.com/5kit">View my repositories →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismail-syed-636270243/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/5kit?tab=repositories">All projects</a>
+</p>
