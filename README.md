@@ -23,10 +23,11 @@
     <td width="50%" valign="top">
       <h3>◈ Helix Engine</h3>
       A 3D engine built with Rust and GLSL, with Python bindings.
-      <br><br>
+      <br><br><br>
       <sub>Rust · GLSL · Python</sub>
       <br><br>
       <a href="https://github.com/5kit/HelixEngine">View repository →</a>
+      <p>~</p>
     </td>
     <td width="50%" valign="top">
       <h3>⌘ Rust HTTP Server</h3>
@@ -34,10 +35,13 @@
       <br><br>
       <sub>Rust · TCP · Concurrency</sub>
       <br><br>
-      <a href="https://github.com/5kit">View my repositories →</a>
+      <a href="https://github.com/5kit/RustNetcode">View repository →</a>
+      <p>~</p>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
